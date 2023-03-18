@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Zubair Ahmed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairahmed0&label=Profile%20views&color=0e75b6&style=flat" alt="zubairahmed0" /> </p>
